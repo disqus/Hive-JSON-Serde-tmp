@@ -110,7 +110,7 @@
         <repository>
           <id>Pentaho</id>
           <name>Pentaho</name>
-          <url>https://public.nexus.pentaho.org/content/groups/omni</url>
+          <url>https://repo.orl.eng.hitachivantara.com/artifactory/pnt-mvn/</url>
         </repository>
 
         <repository>
